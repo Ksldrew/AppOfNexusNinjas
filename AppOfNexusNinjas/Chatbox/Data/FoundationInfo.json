@@ -1,0 +1,12 @@
+{
+  "QuestionsAndAnswers": [
+    { "text": "input: What foundation program does UTS Sarawak have?" },
+    { "text": "output: UTS have Foundation in Art and Foundation in Science" },
+    { "text": "input: What foundation program does University Technology Sarawak have?" },
+    { "text": "output: UTS have Foundation in Art and Foundation in Science" },
+    { "text": "input: What are the courses on Foundation In Art in University Technology Sarawak?" },
+    { "text": "output: The courses of Foundation in Arts are :\nSem 1 Year 1 :\n1. Introductory Mathematical Analysis\n2. Principles of Economics\n3. Principles of Accounting\n4. Principles of Marketing\n5. Introduction to Business\n6. English I\n7. Bahasa Kebangsaan\n\nSem 2 Year 1 :\n1. Presentation Skills\n2. Business Communication\n3. Introduction to Finance\n4. Introduction to Computer Systems and Applications\n5. English II\n6. Event Management\nBesides, in Sem 2 year 1, you need to choose and take 1 more course from Introduction to Business Law, Introduction to Multimedia, Introduction to Construction, Introduction to Development, Introduction to Environmental Design, Introduction to Quantity Surveying and Applied Mathematics I.\n\nSem 3 Year 1 :\n1. Professional Writing\n2. Introduction to Statistics\n3. Introduction to Critical Thinking" }
+  ]
+}
+
+
